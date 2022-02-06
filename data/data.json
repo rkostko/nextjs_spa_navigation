@@ -1,0 +1,50 @@
+{
+  "titles": [
+    {
+      "id": "01",
+      "path": "first",
+      "title": "FIRST"
+    },
+    {
+      "id": "02",
+      "path": "second",
+      "title": "SECOND"
+    },
+    {
+      "id": "03",
+      "path": "third",
+      "title": "THIRD"
+    },
+    {
+      "id": "04",
+      "path": "fourth",
+      "title": "FOURTH"
+    }
+  ],
+  "articles": [
+    {
+      "id": "01",
+      "path": "first",
+      "title": "First: Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates non cumque autem nihil, sit, adipisci asperiores repudiandae, ipsa quod ullam numquam neque est dicta iure soluta tenetur? Corporis nemo laudantium assumenda ex beatae aut nostrum quaerat placeat vel, est corrupti ipsum aperiam. Magni facere, labore blanditiis, ullam fugit impedit ex aut, obcaecati beatae quae perspiciatis aperiam. Doloribus ullam autem hic cum in voluptates ducimus dolorem, maiores totam culpa dolor repudiandae, odit, quas dolorum eum necessitatibus laboriosam nostrum aspernatur voluptatum porro deserunt beatae blanditiis praesentium! Alias nemo animi itaque aliquam modi unde ex nisi. Impedit nemo veniam voluptatibus architecto neque ut voluptatem consequuntur ipsum! Culpa accusantium, est, quo doloremque eligendi ullam itaque obcaecati placeat voluptate tenetur autem consectetur eum ab, assumenda excepturi esse! Sed asperiores esse obcaecati debitis eligendi accusantium, nobis maiores. Beatae labore nemo similique id dolor ab ea explicabo, eum earum, pariatur voluptas aliquid quod consequuntur praesentium maiores! Non eos alias voluptas saepe ab exercitationem, nostrum repellendus nesciunt, facere qui dolor, delectus porro praesentium odio id nobis? At magni cumque reprehenderit, laudantium, tempore odit quasi iste qui perferendis, atque ipsam in nemo? Maxime perspiciatis enim adipisci? Repellendus, non labore velit error fuga dolore, adipisci deleniti, optio dignissimos architecto blanditiis?"
+    },
+    {
+      "id": "02",
+      "path": "second",
+      "title": "Second Voluptates non cumque autem nihil, sit.",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates non cumque autem nihil, sit, adipisci asperiores repudiandae, ipsa quod ullam numquam neque est dicta iure soluta tenetur? Corporis nemo laudantium assumenda ex beatae aut nostrum quaerat placeat vel, est corrupti ipsum aperiam. Magni facere, labore blanditiis, ullam fugit impedit ex aut, obcaecati beatae quae perspiciatis aperiam. Doloribus ullam autem hic cum in voluptates ducimus dolorem, maiores totam culpa dolor repudiandae, odit, quas dolorum eum necessitatibus laboriosam nostrum aspernatur voluptatum porro deserunt beatae blanditiis praesentium! Alias nemo animi itaque aliquam modi unde ex nisi. Impedit nemo veniam voluptatibus architecto neque ut voluptatem consequuntur ipsum! Culpa accusantium, est, quo doloremque eligendi ullam itaque obcaecati placeat voluptate tenetur autem consectetur eum ab, assumenda excepturi esse! Sed asperiores esse obcaecati debitis eligendi accusantium, nobis maiores. Beatae labore nemo similique id dolor ab ea explicabo, eum earum, pariatur voluptas aliquid quod consequuntur praesentium maiores! Non eos alias voluptas saepe ab exercitationem, nostrum repellendus nesciunt, facere qui dolor, delectus porro praesentium odio id nobis? At magni cumque reprehenderit, laudantium, tempore odit quasi iste qui perferendis, atque ipsam in nemo? Maxime perspiciatis enim adipisci? Repellendus, non labore velit error fuga dolore, adipisci deleniti, optio dignissimos architecto blanditiis?"
+    },
+    {
+      "id": "03",
+      "path": "third",
+      "title": "Third Ipsa quod ullam numquam neque est dicta iure soluta tenetur?",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates non cumque autem nihil, sit, adipisci asperiores repudiandae, ipsa quod ullam numquam neque est dicta iure soluta tenetur? Corporis nemo laudantium assumenda ex beatae aut nostrum quaerat placeat vel, est corrupti ipsum aperiam. Magni facere, labore blanditiis, ullam fugit impedit ex aut, obcaecati beatae quae perspiciatis aperiam. Doloribus ullam autem hic cum in voluptates ducimus dolorem, maiores totam culpa dolor repudiandae, odit, quas dolorum eum necessitatibus laboriosam nostrum aspernatur voluptatum porro deserunt beatae blanditiis praesentium! Alias nemo animi itaque aliquam modi unde ex nisi. Impedit nemo veniam voluptatibus architecto neque ut voluptatem consequuntur ipsum! Culpa accusantium, est, quo doloremque eligendi ullam itaque obcaecati placeat voluptate tenetur autem consectetur eum ab, assumenda excepturi esse! Sed asperiores esse obcaecati debitis eligendi accusantium, nobis maiores. Beatae labore nemo similique id dolor ab ea explicabo, eum earum, pariatur voluptas aliquid quod consequuntur praesentium maiores! Non eos alias voluptas saepe ab exercitationem, nostrum repellendus nesciunt, facere qui dolor, delectus porro praesentium odio id nobis? At magni cumque reprehenderit, laudantium, tempore odit quasi iste qui perferendis, atque ipsam in nemo? Maxime perspiciatis enim adipisci? Repellendus, non labore velit error fuga dolore, adipisci deleniti, optio dignissimos architecto blanditiis?"
+    },
+    {
+      "id": "04",
+      "path": "fourth",
+      "title": "Fourth Corporis nemo laudantium assumenda ex beatae aut nostrum quaerat placeat vel",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates non cumque autem nihil, sit, adipisci asperiores repudiandae, ipsa quod ullam numquam neque est dicta iure soluta tenetur? Corporis nemo laudantium assumenda ex beatae aut nostrum quaerat placeat vel, est corrupti ipsum aperiam. Magni facere, labore blanditiis, ullam fugit impedit ex aut, obcaecati beatae quae perspiciatis aperiam. Doloribus ullam autem hic cum in voluptates ducimus dolorem, maiores totam culpa dolor repudiandae, odit, quas dolorum eum necessitatibus laboriosam nostrum aspernatur voluptatum porro deserunt beatae blanditiis praesentium! Alias nemo animi itaque aliquam modi unde ex nisi. Impedit nemo veniam voluptatibus architecto neque ut voluptatem consequuntur ipsum! Culpa accusantium, est, quo doloremque eligendi ullam itaque obcaecati placeat voluptate tenetur autem consectetur eum ab, assumenda excepturi esse! Sed asperiores esse obcaecati debitis eligendi accusantium, nobis maiores. Beatae labore nemo similique id dolor ab ea explicabo, eum earum, pariatur voluptas aliquid quod consequuntur praesentium maiores! Non eos alias voluptas saepe ab exercitationem, nostrum repellendus nesciunt, facere qui dolor, delectus porro praesentium odio id nobis? At magni cumque reprehenderit, laudantium, tempore odit quasi iste qui perferendis, atque ipsam in nemo? Maxime perspiciatis enim adipisci? Repellendus, non labore velit error fuga dolore, adipisci deleniti, optio dignissimos architecto blanditiis?"
+    }
+  ]
+}

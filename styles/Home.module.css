@@ -1,0 +1,35 @@
+.main {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  min-height: 100vh;
+}
+
+.titles {
+  position: fixed;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  width: 100%;
+  height: 100px;
+
+  margin: 0;
+  padding: 0;
+
+  border-bottom: 1px solid #eaeaea;
+  background-color: #fff;
+  list-style: none;
+}
+
+.articles {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+
+  padding: 150px 0 75px 0;
+}
