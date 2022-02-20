@@ -8,12 +8,6 @@
     "type-check": "tsc"
   },
   "dependencies": {
-    "@ras-tech/credentials-provider": "^3.0.0",
-    "@ras-tech/maas-reporter": "^3.1.1",
-    "@ras-tech/node-scripts": "^6.0.0",
-    "@ras-tech/node-server": "^4.0.0",
-    "@ras-tech/ocdn": "^3.1.0",
-    "@ras-tech/opal-client": "^3.2.0",
     "body-parser": "^1.19.0",
     "clsx": "^1.1.1",
     "cookie-parser": "^1.4.5",
